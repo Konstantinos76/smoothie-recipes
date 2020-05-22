@@ -22,7 +22,7 @@
     </form>
 </div>
 </template>
-
+// Comment
 <script>
 import db from '@/firebase/init'
 import slugify from 'slugify'
